@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IamDerrick666
-- 👀 I’m interested in AI, Machine learning, Basketball, Football... All the fun stuff
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in AI, Deep learning, Football... All the fun stuff
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on studying? Maybe, I'm just a rookie~
 - 📫 How to reach me ...
 
