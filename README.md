@@ -1,40 +1,30 @@
-# Yuquan Xu
+# Hi, I'm Yuquan Xu 👋
 
-Junior Specialist at the **University of California, Irvine** and MSc student at the **National University of Singapore**.
+Junior Specialist at the **University of California, Irvine**  
+MSc student at the **National University of Singapore**
 
-My research interests lie in **AI for Precision Medicine** and **Medical Image Analysis**. I am interested in developing computational and deep learning methods for biomedical imaging and precision health applications.
+🔬 **Research Interests:** AI for Precision Medicine · Medical Image Analysis
 
-## Current Positions
+I work on computational and deep learning methods for medical imaging and precision health, with current work spanning medical image segmentation and dynamic imaging.
 
-- **Junior Specialist**, Department of Radiological Sciences, School of Medicine, University of California, Irvine
-- **MSc in Precision Health and Medicine**, Yong Loo Lin School of Medicine, National University of Singapore
+<p>
+  <a href="YOUR_GOOGLE_SCHOLAR_LINK">
+    <img src="https://img.shields.io/badge/Google%20Scholar-Profile-blue?logo=googlescholar">
+  </a>
+  <a href="https://orcid.org/0009-0002-3095-5978">
+    <img src="https://img.shields.io/badge/ORCID-0009--0002--3095--5978-green?logo=orcid">
+  </a>
+  <a href="YOUR_CV_LINK">
+    <img src="https://img.shields.io/badge/CV-PDF-red">
+  </a>
+  <a href="mailto:yuquax1@hs.uci.edu">
+    <img src="https://img.shields.io/badge/Email-Contact-lightgrey">
+  </a>
+</p>
 
-## Research Interests
+## About Me
 
-- AI for Precision Medicine
-- Medical Image Analysis
-
-## Recent Publications
-
-- **Yuquan Xu**, T. M. Rajeh, Y. Zhang, et al.  
-  “Enhancing cross-dataset generalization with quasi-multimodal training and the diamond hybrid backbone.”  
-  *Biomedical Signal Processing and Control*, 2026.
-
-- Y. Wan, Z. Chen, **Yuquan Xu**, et al.  
-  “Breaking error coupling via divergent–convergent coordination for semi-supervised medical image segmentation.”  
-  *Medical Image Analysis*, 2026.
-
-- X. Wang, Y. Wang, **Yuquan Xu**, et al.  
-  “MMTU-Net: Enhancing medical image semantic segmentation with multi-level multi-scale fusion and transformer.”  
-  *The Visual Computer*, 2025.
-
-## Academic Profiles
-
-- [Google Scholar](https://scholar.google.com/citations?user=BQxBdVYAAAAJ)
-- [ORCID](https://orcid.org/0009-0002-3095-5978)
-- [GitHub](https://github.com/IamDerrick666)
-
-## Contact
-
-- University of California, Irvine
-- Email: yuquax1@hs.uci.edu
+- 🎓 MSc in Precision Health and Medicine at the National University of Singapore
+- 🏥 Junior Specialist in Radiological Sciences at the University of California, Irvine
+- 🧠 Interested in AI for Precision Medicine and Medical Image Analysis
+- 📚 Research experience in medical image segmentation, semi-supervised learning, and biomedical imaging
