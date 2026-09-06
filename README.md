@@ -5,8 +5,6 @@ MSc student at the **[National University of Singapore](https://www.nus.edu.sg/)
 
 🔬 **Research Interests:** AI for Precision Medicine · Medical Image Analysis
 
-I work on computational and deep learning methods for medical imaging and precision health, with current work spanning medical image segmentation and dynamic imaging.
-
 <p>
   <a href="https://scholar.google.com/citations?user=BQxBdVYAAAAJ">
     <img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?logo=googlescholar&logoColor=white">
@@ -43,15 +41,9 @@ I work on computational and deep learning methods for medical imaging and precis
   “[MMTU-Net: Enhancing medical image semantic segmentation with multi-level multi-scale fusion and transformer](https://doi.org/10.1007/s00371-025-03909-6).”  
   *The Visual Computer*, 2025.
 
-## Academic Profiles
-
-- 🎓 [Google Scholar](https://scholar.google.com/citations?user=BQxBdVYAAAAJ)
-- 🆔 [ORCID](https://orcid.org/0009-0002-3095-5978)
-- 📄 [Curriculum Vitae](./assets/YuquanXu_CV.pdf)
-- 💻 [GitHub](https://github.com/IamDerrick666)
-
 ## Contact
 
 - 📍 Irvine, California
 - 🏥 [Department of Radiological Sciences, University of California, Irvine](https://radiology.uci.edu/)
+- 💻 [GitHub](https://github.com/IamDerrick666)
 - ✉️ [yuquax1@hs.uci.edu](mailto:yuquax1@hs.uci.edu)
